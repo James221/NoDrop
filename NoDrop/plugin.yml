@@ -1,0 +1,10 @@
+name: NoDrop
+main: io.github.James221.NoDrop.NoDrop
+version: 1.0
+description: NoDrop
+commands:
+   NoDrop:
+      description: Info
+      usage: /<command> [player]
+      permission: <plugin name>.NoDrop
+      permission-message: You don't have <permission>

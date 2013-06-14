@@ -1,0 +1,6 @@
+# Default Configuration File For NoDrop
+NoDrop: Insert Message For Command "/Motd" Edit This In The Config...
+Drop: Insert Drop Message Here
+Kill: 0
+# Damage = Amount Of Hearts To Take When Item Is Dropped
+# Default Is 0
